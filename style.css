@@ -4,3 +4,10 @@
     grid-template-rows: 1fr 1fr 1fr 1fr;
 }
 
+#fish{
+grid-column: 1 / span 3;
+}
+
+#map{
+grid-column: 1 / span 3;  
+}
